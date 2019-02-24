@@ -23,9 +23,9 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-**Require Stories**
+**Required Stories**:
 <img src='http://g.recordit.co/HIqr2iPENm.gif' title='Video Walkthrough Require Stories' width='' alt='Video Walkthrough' />
 
-**Bonus Features**
-<img src='http://g.recordit.co/DjxUdsAYmH.gif"' title='Video Walkthrough Require Stories' width='' alt='Video Walkthrough' />
+**Bonus Features**:
+<img src='http://g.recordit.co/DjxUdsAYmH.gif' title='Video Walkthrough Require Stories' width='' alt='Video Walkthrough' />
 
