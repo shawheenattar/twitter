@@ -2,7 +2,7 @@
 
 **Twitter** is a basic twitter app to read your tweets.
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
@@ -27,5 +27,5 @@ Here's a walkthrough of implemented user stories:
 <img src='http://g.recordit.co/HIqr2iPENm.gif' title='Video Walkthrough Require Stories' width='' alt='Video Walkthrough' />
 
 **Bonus Features**
-<img src='http://g.recordit.co/DjxUdsAYmH.gif' title='Video Walkthrough Require Stories' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/DjxUdsAYmH.gif"' title='Video Walkthrough Require Stories' width='' alt='Video Walkthrough' />
 
