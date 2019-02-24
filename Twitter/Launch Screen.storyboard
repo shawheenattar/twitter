@@ -17,7 +17,22 @@
                     <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="TwitterLogoBlue" translatesAutoresizingMaskIntoConstraints="NO" id="GNq-kc-U1V">
+                                <rect key="frame" x="81" y="241" width="212" height="184"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="184" id="fJ1-Ud-ZwU"/>
+                                    <constraint firstAttribute="width" constant="212" id="jT5-uA-Z7C"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="Bcu-3y-fUS" firstAttribute="bottom" secondItem="GNq-kc-U1V" secondAttribute="bottom" constant="242" id="7jH-Na-HLZ"/>
+                            <constraint firstItem="GNq-kc-U1V" firstAttribute="top" secondItem="Bcu-3y-fUS" secondAttribute="top" constant="221" id="Efo-fT-o95"/>
+                            <constraint firstItem="Bcu-3y-fUS" firstAttribute="trailing" secondItem="GNq-kc-U1V" secondAttribute="trailing" constant="82" id="jrm-a8-19c"/>
+                            <constraint firstItem="GNq-kc-U1V" firstAttribute="leading" secondItem="Bcu-3y-fUS" secondAttribute="leading" constant="81" id="unN-Z1-Nmd"/>
+                        </constraints>
                         <viewLayoutGuide key="safeArea" id="Bcu-3y-fUS"/>
                     </view>
                 </viewController>
@@ -26,4 +41,7 @@
             <point key="canvasLocation" x="52" y="374.66266866566718"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="TwitterLogoBlue" width="400" height="400"/>
+    </resources>
 </document>
